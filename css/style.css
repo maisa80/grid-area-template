@@ -85,11 +85,10 @@ footer{
 
 #container {
 	width: 89%;
-	margin: 20px auto;
+	margin: 2px auto;
 	display: grid;
 	grid-template-columns: repeat(12,1fr);
 	column-gap:2%;
-	grid-template-rows: auto;
   	grid-template-areas: 
    	"header header header header header header header header header header header header"
 	"box1 box1 box2 box2 box2 box2 box2 box2 box2 box2 box3 box3"
