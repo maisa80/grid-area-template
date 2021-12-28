@@ -147,7 +147,7 @@ footer{
 
 /* Mobile screens: less than 768px */
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:767px) {
 	#container, footer{
 		grid-template-columns: 1fr;
 	}
